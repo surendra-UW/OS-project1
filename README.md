@@ -2,7 +2,7 @@
 
 ## Administrivia 
 
-- **Due Date**: September 18th, at 11:59pm
+- **Due Date**: September 19th, at 11:59pm
 - Projects may be turned in up to 3 days late but you will receive a penalty of
 10 percentage points for every day it is turned in late.
 - **Slip Days**: 
