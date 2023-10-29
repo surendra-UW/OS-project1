@@ -1,8 +1,4 @@
-name: Parla Surendra Mani Kumar
-cs login: surendra
-wisc ID: 9085900984
-email: smparla@wisc.edu
-status: all works
+
 
 Approach:
 wman: 
